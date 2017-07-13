@@ -655,6 +655,7 @@
 			baseConfigurationReference = ACC23CABEB4B7D73F98AB658 /* Pods-Exam.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = B7NNUZZ3S5;
 				INFOPLIST_FILE = Exam/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -669,6 +670,7 @@
 			baseConfigurationReference = 075B459C7326A12BB38BF651 /* Pods-Exam.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = B7NNUZZ3S5;
 				INFOPLIST_FILE = Exam/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
